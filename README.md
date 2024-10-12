@@ -1,4 +1,6 @@
 # Sales Data Analysis Project
+![Project Description](ERD/Users/surabhimetpally/Desktop)
+
 
 ## About
 This project focuses on the analysis of sales data using MySQL Workbench. The primary objective is to create a SALE schema, define relationships among tables, and manipulate data to extract meaningful insights regarding customer behavior, order patterns, and product performance.
