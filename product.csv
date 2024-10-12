@@ -1,0 +1,14 @@
+Product_ID,Product_Name,Product_Desc,Product_Unit_Price,Product_Reorder_Level,Product_Lead_Time,Product_Qty_On_Hand,Supplier_ID
+2,iPod Shuffle,1GB,99.00,10,10,52,1
+4,Nokia 6102,EDGE high-speed data access,99.00,10,5,20,3
+6,LG CU320,MP3 Music Player with Stereo Sound,149.00,10,5,10,2
+7,Motorola RAZR V3,Black,149.00,10,5,10,4
+16,iPod Mini,4GB,149.00,25,10,20,1
+19,Garmin Streetpilot 2730,Portable Car Navigation,899.00,5,10,2,5
+22,Garmin Streetpilot 3444,Portable Car Navigation with Bluetooth,999.00,5,10,10,5
+30,iPod Nano,2GB,199.00,25,10,22,1
+31,Nokia 6061,Media Net capable for surfing the Internet,79.00,10,10,26,3
+39,iPod Shuffle V3,2GB,199.00,19,19,15,1
+85,LG C2000,Camera phone with 3x digital zoom,99.00,5,10,24,2
+98,Magellan Explorist,Explorist 100 North American,125.00,5,5,5,4
+100,LG D3000,Camera phone with 4x digital zoon,159.00,25,5,20,2
