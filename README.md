@@ -62,13 +62,13 @@ The dataset used in this project is sourced from three CSV files, which contain 
 - Who are the top ten customers in total revenue (unit price * quantity)?
 - What are the revenues by state with rollup?
 - What is the count of customers in this data?
-f. Use the `LIKE` statement and a wildcard character to select all customers whose last name begins with the letter Q or S. Alphabetize the results.
-g. Use a regular expression to select all fields in the customer table where the city name begins with A, B, or C.
-h. Use the `GROUP BY` and `SUM` statements to list aggregated sums of order amounts based on the customer ID. Sort the results in descending order by the sum of the payment amounts. Which customer had the smallest amount?
-i. Add a condition to the `GROUP BY` clause to list only the total amounts greater than $100,000. Which customer had the largest total amount?
-j. What is the aggregate count of the number of orders in this database?
-k. What is the most popular product ordered, in terms of quantity?
-l. What is the average order revenue by customer?
+- Use the `LIKE` statement and a wildcard character to select all customers whose last name begins with the letter Q or S. Alphabetize the results.
+- Use a regular expression to select all fields in the customer table where the city name begins with A, B, or C.
+- Use the `GROUP BY` and `SUM` statements to list aggregated sums of order amounts based on the customer ID. Sort the results in descending order by the sum of the payment amounts. Which customer had the smallest amount?
+-  Add a condition to the `GROUP BY` clause to list only the total amounts greater than $100,000. Which customer had the largest total amount?
+- hat is the aggregate count of the number of orders in this database?
+- What is the most popular product ordered, in terms of quantity?
+- What is the average order revenue by customer?
 
 
 
