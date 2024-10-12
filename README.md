@@ -1,5 +1,5 @@
 # Sales Data Analysis Project
-
+<img width="632" alt="Screenshot 2024-10-12 at 7 27 10 PM" src="https://github.com/user-attachments/assets/e92673d1-c8d0-4299-8212-ad391ab370c5">
 
 ## About
 This project focuses on the analysis of sales data using MySQL Workbench. The primary objective is to create a SALE schema, define relationships among tables, and manipulate data to extract meaningful insights regarding customer behavior, order patterns, and product performance.
