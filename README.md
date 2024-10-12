@@ -1,5 +1,3 @@
-# SurabhiMetpally_SalesSQL_Data_Analysis
-
 # Sales Data Analysis Project
 
 ## About
