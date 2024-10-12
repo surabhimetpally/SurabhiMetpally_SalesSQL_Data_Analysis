@@ -1,5 +1,4 @@
 # Sales Data Analysis Project
-![Project Description](ERD/Users/surabhimetpally/Desktop)
 
 
 ## About
