@@ -57,11 +57,11 @@ The dataset used in this project is sourced from three CSV files, which contain 
 - The `ProductQuantityOnHand` attribute indicates the number of units of a product currently available in stock.
 
 ## Business Questions Answered
-a. What is the best customer in terms of the one who has ordered the most total units (quantity)?
-b. What are the sums of quantities of the orders for each customer in VA? Include a rollup of total quantities.
-c. Who are the top ten customers in total revenue (unit price * quantity)?
-d. What are the revenues by state with rollup?
-e. What is the count of customers in this data?
+-  What is the best customer in terms of the one who has ordered the most total units (quantity)?
+- What are the sums of quantities of the orders for each customer in VA? Include a rollup of total quantities.
+- Who are the top ten customers in total revenue (unit price * quantity)?
+- What are the revenues by state with rollup?
+- What is the count of customers in this data?
 f. Use the `LIKE` statement and a wildcard character to select all customers whose last name begins with the letter Q or S. Alphabetize the results.
 g. Use a regular expression to select all fields in the customer table where the city name begins with A, B, or C.
 h. Use the `GROUP BY` and `SUM` statements to list aggregated sums of order amounts based on the customer ID. Sort the results in descending order by the sum of the payment amounts. Which customer had the smallest amount?
